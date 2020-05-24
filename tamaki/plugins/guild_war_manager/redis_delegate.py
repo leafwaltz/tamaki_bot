@@ -8,7 +8,7 @@ class redis_delegate:
 
         self.guild_table = {
             "loop" : 0,
-            "boss_index" : 0
+            "boss_index" : 1
         }
         
     def init_state(self):
